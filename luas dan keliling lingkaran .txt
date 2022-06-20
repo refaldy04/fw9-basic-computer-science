@@ -1,0 +1,15 @@
+luas lingkaran
+
+start
+tentukan jari-jari lingkaran
+kalikan pi dengan jari-jari lingkaran pangkat 2
+end
+
+************************************
+
+keliling lingkaran
+
+start
+tentukan jari-jari lingkaran
+kalikan 2, pi dan jari-jari lingkaran
+end

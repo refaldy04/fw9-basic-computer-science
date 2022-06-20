@@ -1,0 +1,5 @@
+start
+tentukan nilai x
+tentukan nilai y
+bandingkan besar kedua nilai
+end

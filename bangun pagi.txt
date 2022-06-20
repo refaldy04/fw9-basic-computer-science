@@ -1,0 +1,16 @@
+bangun pagi
+
+start
+matikan alarm
+cek hp
+rapikan tempat tidur
+melakukan peregangan
+minum air putih
+cuci muka
+sarapan
+mandi
+end
+
+
+
+

@@ -1,0 +1,10 @@
+start
+ambil cangkir baru
+masukan air teh dari cangkir a ke cangkir baru
+masukan kopi dari cangkir b ke  cangkir a
+masukan teh dari cangkir baru ke cangkir b
+end
+
+
+
+

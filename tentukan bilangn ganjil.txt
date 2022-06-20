@@ -1,0 +1,6 @@
+start
+tentukan nilai x
+tentukan apa x bisa di bagi 2?
+jika bisa x adalah bilangan genap
+jika tidak, x adalah bilangan ganjil
+end 

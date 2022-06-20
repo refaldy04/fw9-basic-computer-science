@@ -1,0 +1,13 @@
+Memasak air
+
+start
+ambil panci
+siapkan air dari dispenser dengan gelas
+siapkan kompor
+masukkan air kedalam panci
+taruh panci di atas kompor
+nyalakan kompor
+tunggu air hingga mendidih
+matikan kompor
+air siap disajikan
+end
